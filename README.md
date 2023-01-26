@@ -5,8 +5,12 @@ Good?
 
 # About the proyect
 This two files;
+
+
 Atacante(Attacker file).py
 Victima(Victim file).py
+
+
 Are a REVERSE SHELL;
 Atacante = host
 Victima = client.
