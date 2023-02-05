@@ -7,5 +7,5 @@
 - 👀 Skid it, no problem
 - 💗 made with love, by jair 
   
---> 5/2/2023
+- --> 5/2/2023
 - I put a ascii art very beautifull on the code!! 
