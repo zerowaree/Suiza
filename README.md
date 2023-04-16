@@ -1,9 +1,8 @@
-<h1 align="center">Hi 👋, I'm jair david</h1>
-<h3 align="center">A passionate amateur programer from Argentina (not to flex butt i have 3 worldcups)</h3
+<h1> ⚜️ | Zeroshell | ⚜️ <h1>
+<h3> a 100% fud reverse shell for my cracked.io folks <h3>
 
-- 🤘 100% FUD REVERSE SHELL FOR INFECT EVERYBODY! FUCK THE WORLD
-- 🤠 BEAUTYFULL SHELL FOR YOU
-- 🤙 Open source
-- 👀 Skid it, no problem
-- 💗 made with love, by jair       
-- I put a ascii art very beautifull on the code!!
+- 100% FUD
+- Made with love
+
+- To do:
+- Custom commands
