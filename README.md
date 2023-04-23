@@ -1,1 +1,1 @@
-<h1> ⚜️ | SuizaShell | ⚜️ <h1>
+<h1> 🇨🇭 | SuizaShell | 🇨🇭 <h1>
