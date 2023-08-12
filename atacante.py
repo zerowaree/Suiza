@@ -10,7 +10,7 @@ server.listen(1)
 
 while True:
     victima,direccion=server.accept()
-    print("
+    print("""
   ██████  █    ██  ██▓▒███████▒ ▄▄▄      
 ▒██    ▒  ██  ▓██▒▓██▒▒ ▒ ▒ ▄▀░▒████▄    
 ░ ▓██▄   ▓██  ▒██░▒██▒░ ▒ ▄▀▒░ ▒██  ▀█▄  
@@ -21,7 +21,7 @@ while True:
 ░  ░  ░   ░░░ ░ ░  ▒ ░░ ░ ░ ░ ░  ░   ▒   
       ░     ░      ░    ░ ░          ░  ░
                       ░                  
-")
+""")
     print(f{Fore_MAGENTA}'[*] New Connection: {}'.format(direccion))
     msjBinario=victima.recv(1024)
     msjCodificado=msjBinario.decode(ascii)
